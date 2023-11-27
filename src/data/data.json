@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "email": "canbulat@onarok.com",
+            "password": "password",
+            "name": "Canbulat Onarok",
+            "id": 1
+        }
+    ]
+}
